@@ -1,2 +1,7 @@
-
-/* Your CSS Code here. */
+#content_div {
+	background-color: lightblue ;
+	width: 170px ;
+	padding: 50px ;
+	border: 15px solid blue;
+	margin: 20px ;
+}
