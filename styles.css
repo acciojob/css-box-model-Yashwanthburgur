@@ -1,8 +1,8 @@
 #content_div {
 	box-sizing: border-box;
-	background-color: lightblue ;
-	width: 300px ;
-	padding: 50px ;
+	background-color: lightblue;
+	width: 300px;
+	padding: 50px;
 	border: 15px solid blue;
-	margin: 20px ;
+	margin: 20px;
 }
